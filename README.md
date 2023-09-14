@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vladimir Smetana</h1>
+<h1 align="center">Hi , I'm Vladimir Smetana</h1>
 <h3 align="center">Java\C++ developer from Samara, Russia</h3>
 
 - 📫 How to reach me **tg: @Vladimir_Smet**
