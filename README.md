@@ -9,3 +9,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VladimirSmetana&show_icons=true&locale=en&layout=compact" alt="VladimirSmetana" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VladimirSmetana&show_icons=true&locale=en" alt="VladimirSmetana" /></p>
+
+
+My Codewars Badge:
+
+![image](https://www.codewars.com/users/VladimirSmetana/badges/small?theme=light)
