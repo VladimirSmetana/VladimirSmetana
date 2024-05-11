@@ -13,6 +13,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 <img src="https://gitlab.com/uploads/-/system/group/avatar/4631131/Csharp.png" alt="csharp" width="40" height="40"/>
+<img src="https://avatars.mds.yandex.net/i?id=63be776bed0e840e611699aca32b79f9e3bb333a-10702479-images-thumbs&n=13" alt="csharp" width="40" height="40"/>
+
 
 
   
