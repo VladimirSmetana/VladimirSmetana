@@ -11,7 +11,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 <img src="https://gitlab.com/uploads/-/system/group/avatar/4631131/Csharp.png" alt="csharp" width="40" height="40"/>
 <img src="https://logos-download.com/wp-content/uploads/2016/09/Arduino_logo.png" alt="csharp" width="40" height="40"/>
-<img src="https://w7.pngwing.com/pngs/646/751/png-transparent-the-c-programming-language-computer-programming-programmer-others-blue-class-logo.png" alt="csharp" width="40" height="40"/>
+<img src="https://icons8.com/icon/TpULddJc4gTh/c%2B%2B" alt="csharp" width="40" height="40"/>  
+  
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VladimirSmetana&show_icons=true&locale=en&layout=compact" alt="VladimirSmetana" /></p>
