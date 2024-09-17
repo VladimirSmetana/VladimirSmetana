@@ -13,7 +13,6 @@
 <img src="https://www.cumhuriyetteknokent.com/egitim/images/icon/arduino.jpg" alt="git" width="40" height="40"/> 
 <img src="https://cdn.specialist.ru/Content/Image/Course/qt1.jpg" alt="git" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://avatars.mds.yandex.net/i?id=63be776bed0e840e611699aca32b79f9e3bb333a-10702479-images-thumbs&n=13" alt="csharp" width="40" height="40"/>
 <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-1024.png" alt="csharp" width="40" height="40"/>
 
 
