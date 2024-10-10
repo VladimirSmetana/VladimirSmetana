@@ -8,7 +8,7 @@
 
 <div align="center">  
   <a href="https://t.me/Vladimir_Smet">
-    <img src="https://img.shields.io/badge/Telegram-#87CEEB?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://vk.com/felix_felicisus">
     <img src="https://img.shields.io/badge/VKontakte-blue?style=for-the-badge&logo=VKontakte&VKontakte=white" alt="VKontakte Badge"/>
