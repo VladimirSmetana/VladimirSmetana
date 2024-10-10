@@ -17,7 +17,7 @@
 <div align="center">  
 <img src="https://komarev.com/ghpvc/?username=VladimirSmetana&style=flat-square&color=blue" alt=""/>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools</h3>
 
 
 <p align="center"> 
