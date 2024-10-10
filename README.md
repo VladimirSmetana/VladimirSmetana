@@ -40,5 +40,7 @@
 
 My Codewars Badge:
 
-<p align="left"> 
-![image](https://www.codewars.com/users/VladimirSmetana/badges/small?theme=light)
+<p align="left">
+  <img src="https://www.codewars.com/users/VladimirSmetana/badges/small?theme=light" alt="Codewars Badge">
+</p>
+
