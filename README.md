@@ -10,8 +10,8 @@
   <a href="https://t.me/Vladimir_Smet">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/!VKontakte-blue?style=for-the-badge&logo=!VKontakte&!VKontakte=white" alt="!VKontakte Badge"/>
+  <a href="https://vk.com/felix_felicisus">
+    <img src="https://img.shields.io/badge/VKontakte-blue?style=for-the-badge&logo=VKontakte&VKontakte=white" alt="VKontakte Badge"/>
   </a>
 </div>
 <div align="center">  
