@@ -40,4 +40,5 @@
 
 My Codewars Badge:
 
+<p align="left"> 
 ![image](https://www.codewars.com/users/VladimirSmetana/badges/small?theme=light)
