@@ -21,6 +21,8 @@
 
 
 <p align="left"> 
+  https://www.pngwing.com/ru/free-png-nwvsu
+<img src="https://www.pngwing.com/ru/free-png-nwvsu" width="40" height="40"/>
 <img src="https://avatars.mds.yandex.net/i?id=702b5dadfb41c404ffa1d9ba59a4bdb21fb73a1f-12168744-images-thumbs&n=13" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://bcassetcdn.com/public/blog/wp-content/uploads/2019/11/02142643/Linux.jpg" alt="git" width="40" height="40"/>  
