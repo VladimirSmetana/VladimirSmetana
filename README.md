@@ -17,7 +17,6 @@
 <div align="center">  
 <img src="https://komarev.com/ghpvc/?username=VladimirSmetana&style=flat-square&color=blue" alt=""/>
 
-- 📫 How to reach me **tg: @Vladimir_Smet**
 <h3 align="left">Languages and Tools:</h3>
 
 
