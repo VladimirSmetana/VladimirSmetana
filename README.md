@@ -17,6 +17,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 
 - 📫 How to reach me **tg: @Vladimir_Smet**
 <h3 align="left">Languages and Tools:</h3>
