@@ -42,9 +42,9 @@
 
 
 
-My Codewars Badge:
 
 <p align="left">
+My Codewars Badge:
   <img src="https://www.codewars.com/users/VladimirSmetana/badges/small?theme=light" alt="Codewars Badge">
 </p>
 
