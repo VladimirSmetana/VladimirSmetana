@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">  
-  <a href="your-linkedin-URL">
+  <a href="@Vladimir_Smet">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
