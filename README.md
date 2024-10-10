@@ -33,9 +33,11 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VladimirSmetana&show_icons=true&locale=en&layout=compact" alt="VladimirSmetana" /></p>
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VladimirSmetana&show_icons=true&locale=en&layout=compact" alt="VladimirSmetana" style="width: 400px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VladimirSmetana&show_icons=true&locale=en" alt="VladimirSmetana" style="width: 400px;" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VladimirSmetana&show_icons=true&locale=en" alt="VladimirSmetana" /></p>
 
 
 My Codewars Badge:
