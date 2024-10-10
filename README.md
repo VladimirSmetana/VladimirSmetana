@@ -28,7 +28,7 @@
 <img src="https://github.com/user-attachments/assets/10558334-27df-4abd-a121-464526b84fd0" alt="git" width="40" height="40"/>  
 <img src="https://www.cumhuriyetteknokent.com/egitim/images/icon/arduino.jpg" alt="git" width="40" height="40"/> 
 <img src="https://github.com/user-attachments/assets/e06515db-0cdc-4801-94da-e50b6ae9490c" alt="csharp" width="40" height="40"/>
-<img src="https://cdn.specialist.ru/Content/Image/Course/qt1.jpg" alt="git" width="40" height="40"/> 
+<img src="https://github.com/user-attachments/assets/a7ae83a7-d100-46f5-8a15-1108f0c48fdd" alt="git" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-1024.png" alt="csharp" width="40" height="40"/>
 
