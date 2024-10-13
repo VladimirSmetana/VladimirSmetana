@@ -2,8 +2,6 @@
 <h3 align="center">I'm Vladimir Smetana </h3>
 <h3 align="center">C/C++ & Python developer from Samara, Russia</h3>
 
-<div align="center">  
-<img src="https://komarev.com/ghpvc/?username=VladimirSmetana&style=flat-square&color=blue" alt=""/>
 
 <div align="center">  
   <a href="https://t.me/Vladimir_Smet">
@@ -34,6 +32,8 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="400"/>
 </div>
 
+<div align="center">  
+<img src="https://komarev.com/ghpvc/?username=VladimirSmetana&style=flat-square&color=blue" alt=""/>
 
 
 <div style="display: flex; flex-direction: column; align-items: center;">
