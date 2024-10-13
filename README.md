@@ -3,7 +3,7 @@
 <h3 align="center">C/C++ & Python developer from Samara, Russia</h3>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="400"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="350"/>
 </div>
 
 <div align="center">  
