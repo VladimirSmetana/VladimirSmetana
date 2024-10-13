@@ -1,5 +1,5 @@
-<h1 align="center">Hi, there ✌️</h1>
-<h3 align="center">I'm <span style="color: gold;">Vladimir Smetana</span></h3>
+<h1 align="center">Hi , there ✌️</h1>
+<h3 align="center">I'm <font color="#9900FF"> Vladimir Smetana </font> </h3>
 <h3 align="center">C/C++ & Python developer from Samara, Russia</h3>
 
 
