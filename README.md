@@ -2,6 +2,8 @@
 <h3 align="center">I'm Vladimir Smetana </h3>
 <h3 align="center">C/C++ & Python developer from Samara, Russia</h3>
 
+<div align="center">  
+<img src="https://komarev.com/ghpvc/?username=VladimirSmetana&style=flat-square&color=blue" alt=""/>
 
 <div align="center">  
   <a href="https://t.me/Vladimir_Smet">
@@ -11,12 +13,7 @@
     <img src="https://img.shields.io/badge/VKontakte-blue?style=for-the-badge&logo=VKontakte&VKontakte=white" alt="VKontakte Badge"/>
   </a>
 </div>
-<div align="center">  
-<img src="https://komarev.com/ghpvc/?username=VladimirSmetana&style=flat-square&color=blue" alt=""/>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="400"/>
-</div>
 <h3 align="center">Languages and Tools</h3>
 
 
@@ -33,6 +30,9 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <img src="https://www.cumhuriyetteknokent.com/egitim/images/icon/arduino.jpg" alt="git" width="40" height="40"/> 
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="400"/>
+</div>
 
 
 
