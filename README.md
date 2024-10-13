@@ -1,6 +1,7 @@
-# Hi, there ✌️
-### I'm ✨ Vladimir Smetana ✨
-### C/C++ & Python developer from Samara, Russia
+<h1 align="center">Hi, there ✌️</h1>
+<h3 align="center">I'm <span style="color: gold;">Vladimir Smetana</span></h3>
+<h3 align="center">C/C++ & Python developer from Samara, Russia</h3>
+
 
 
 
