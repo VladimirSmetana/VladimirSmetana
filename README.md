@@ -28,7 +28,6 @@
 <img src="https://github.com/user-attachments/assets/2220751a-695b-414d-86f5-7fd7860b5831" alt="git" width="40" height="40"/>
 <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-1024.png" alt="csharp" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://www.cumhuriyetteknokent.com/egitim/images/icon/arduino.jpg" alt="git" width="40" height="40"/> 
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="400"/>
